@@ -6,10 +6,14 @@
 *hey*
 This site was built using [GitHub Pages](https://pages.github.com/).
 `printf()`
-```
+```C++
 Yooooo
 comment va ?
 ```
 ```SQL
 SELECT * FROM  Users;
 ```
+je modifie mon code
+
+```JAVA
+void main();
